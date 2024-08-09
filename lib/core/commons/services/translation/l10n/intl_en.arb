@@ -1,0 +1,336 @@
+{
+    "@@x-loco-version": "1.0.28 20240611-1",
+    "@@locale": "en",
+    "@@last_modified": "2024-07-28T23:21:04+0200",
+    "@@author": "David Barbero",
+    "language_english": "EN",
+    "@language_english": {
+        "type": "text",
+        "source_text": "EN"
+    },
+    "language_spanish": "ES",
+    "@language_spanish": {
+        "type": "text",
+        "source_text": "ES"
+    },
+    "bug_label": "Bug",
+    "@bug_label": {
+        "type": "text",
+        "source_text": "Bug"
+    },
+    "dark_label": "Dark",
+    "@dark_label": {
+        "type": "text",
+        "source_text": "Dark"
+    },
+    "dragon_label": "Dragon",
+    "@dragon_label": {
+        "type": "text",
+        "source_text": "Dragon"
+    },
+    "electric_label": "Electric",
+    "@electric_label": {
+        "type": "text",
+        "source_text": "Electric"
+    },
+    "fairy_label": "Fairy",
+    "@fairy_label": {
+        "type": "text",
+        "source_text": "Hada"
+    },
+    "fighting_label": "Fighting",
+    "@fighting_label": {
+        "type": "text",
+        "source_text": "Lucha"
+    },
+    "fire_label": "Fire",
+    "@fire_label": {
+        "type": "text",
+        "source_text": "Fuego"
+    },
+    "flying_label": "Flying",
+    "@flying_label": {
+        "type": "text",
+        "source_text": "Volador"
+    },
+    "ghost_label": "Ghost",
+    "@ghost_label": {
+        "type": "text",
+        "source_text": "Fantasma"
+    },
+    "ground_label": "Ground",
+    "@ground_label": {
+        "type": "text",
+        "source_text": "Tierra"
+    },
+    "ice_label": "Ice",
+    "@ice_label": {
+        "type": "text",
+        "source_text": "Hielo"
+    },
+    "normal_label": "Normal",
+    "@normal_label": {
+        "type": "text",
+        "source_text": "Normal"
+    },
+    "poison_label": "Poison",
+    "@poison_label": {
+        "type": "text",
+        "source_text": "Veneno"
+    },
+    "psychic_label": "Psychic",
+    "@psychic_label": {
+        "type": "text",
+        "source_text": "Psíquico"
+    },
+    "rock_label": "Rock",
+    "@rock_label": {
+        "type": "text",
+        "source_text": "Roca"
+    },
+    "steel_label": "Steel",
+    "@steel_label": {
+        "type": "text",
+        "source_text": "Acero"
+    },
+    "water_label": "Water",
+    "@water_label": {
+        "type": "text",
+        "source_text": "Agua"
+    },
+    "grass_label": "Grass",
+    "@grass_label": {
+        "type": "text",
+        "source_text": "Planta"
+    },
+    "pokemon_order_alphabetical_label": "Alphabetical",
+    "@pokemon_order_alphabetical_label": {
+        "type": "text",
+        "source_text": "Alfabético"
+    },
+    "pokemon_order_alphabetical_description": "This order is alphabetical.",
+    "@pokemon_order_alphabetical_description": {
+        "type": "text",
+        "source_text": "Este orden es alfabético."
+    },
+    "pokemon_order_color_label": "Color",
+    "@pokemon_order_color_label": {
+        "type": "text",
+        "source_text": "Color"
+    },
+    "pokemon_order_lightness_label": "Lightness",
+    "@pokemon_order_lightness_label": {
+        "type": "text",
+        "source_text": "Lightness"
+    },
+    "pokemon_order_vg_order_label": "VG",
+    "@pokemon_order_vg_order_label": {
+        "type": "text",
+        "source_text": "VG"
+    },
+    "pokemon_order_guide_label": "Guide",
+    "@pokemon_order_guide_label": {
+        "type": "text",
+        "source_text": "Guía"
+    },
+    "pokemon_order_alt_label": "Alt\t",
+    "@pokemon_order_alt_label": {
+        "type": "text",
+        "source_text": "Alt\t"
+    },
+    "pokemon_order_pokedex_label": "Pokedex",
+    "@pokemon_order_pokedex_label": {
+        "type": "text",
+        "source_text": "Pokedex"
+    },
+    "pokemon_order_color_description": "This is an order that I calculated based on the colors used for each type. Normal, Steel and Dark are kept separately, however.",
+    "@pokemon_order_color_description": {
+        "type": "text",
+        "source_text": "Este es un orden que calculé en base a los colores utilizados para cada tipo. Sin embargo, Normal, Steel y Dark se mantienen por separado."
+    },
+    "pokemon_order_lightness_description": "This is another calculated order, where it’s based on the apparent brightness of the types color.",
+    "@pokemon_order_lightness_description": {
+        "type": "text",
+        "source_text": "Este es otro orden calculado, que se basa en el brillo aparente del color del tipo."
+    },
+    "pokemon_order_vg_description": "This order is used often in the Pokémon video games.",
+    "@pokemon_order_vg_description": {
+        "type": "text",
+        "source_text": "Este orden se utiliza a menudo en los videojuegos Pokémon."
+    },
+    "pokemon_order_guide_description": "This order was seen in various Pokémon strategy guides.",
+    "@pokemon_order_guide_description": {
+        "type": "text",
+        "source_text": "Este orden se vio en varias guías de estrategia de Pokémon."
+    },
+    "pokemon_order_alt_description": "This order is also used in the video games, almost just as often.",
+    "@pokemon_order_alt_description": {
+        "type": "text",
+        "source_text": "Este orden también se utiliza en los videojuegos, casi con la misma frecuencia."
+    },
+    "pokemon_order_pokedex_description": "This order was seen in the Pokédex 3D and 3D Pro eShop utilities for the 3DS.",
+    "@pokemon_order_pokedex_description": {
+        "type": "text",
+        "source_text": "Este orden se vio en las utilidades Pokédex 3D y 3D Pro eShop para 3DS."
+    },
+    "pokedex_title": "Pokedex",
+    "@pokedex_title": {
+        "type": "text",
+        "source_text": "Pokédex"
+    },
+    "caught_pokemons_title": "Caught Pokémons",
+    "@caught_pokemons_title": {
+        "type": "text",
+        "source_text": "Pokémons capturados"
+    },
+    "search_bar_label": "Search",
+    "@search_bar_label": {
+        "type": "text",
+        "source_text": "Buscar"
+    },
+    "hp_label": "HP",
+    "@hp_label": {
+        "type": "text",
+        "source_text": "PS"
+    },
+    "attack_label": "Attack",
+    "@attack_label": {
+        "type": "text",
+        "source_text": "Ataque"
+    },
+    "defense_label": "Defense",
+    "@defense_label": {
+        "type": "text",
+        "source_text": "Defensa"
+    },
+    "special_attack_label": "Special Attack",
+    "@special_attack_label": {
+        "type": "text",
+        "source_text": "Ataque Especial"
+    },
+    "special_defense_label": "Special Defense",
+    "@special_defense_label": {
+        "type": "text",
+        "source_text": "Defensa Especial"
+    },
+    "speed_label": "Speed",
+    "@speed_label": {
+        "type": "text",
+        "source_text": "Velocidad"
+    },
+    "accuracy_label": "Accuracy",
+    "@accuracy_label": {
+        "type": "text",
+        "source_text": "Precisión"
+    },
+    "evasion_label": "Evasion",
+    "@evasion_label": {
+        "type": "text",
+        "source_text": "Evasión"
+    },
+    "data_title": "Pokémon Data",
+    "@data_title": {
+        "type": "text",
+        "source_text": "Datos del Pokémon"
+    },
+    "pokemon_detail_height_label": "Height",
+    "@pokemon_detail_height_label": {
+        "type": "text",
+        "source_text": "Altura"
+    },
+    "pokemon_detail_weight_label": "Weight",
+    "@pokemon_detail_weight_label": {
+        "type": "text",
+        "source_text": "Peso"
+    },
+    "pokemon_detail_error_title": "Sorry, an error occurred while loading the details of the Pokémon",
+    "@pokemon_detail_error_title": {
+        "type": "text",
+        "source_text": "Lo sentimos, ha ocurrido un error al cargar los detalles del Pokémon"
+    },
+    "pokemon_detail_stats_subtitle": "Stats",
+    "@pokemon_detail_stats_subtitle": {
+        "type": "text",
+        "source_text": "Estadísticas"
+    },
+    "select_label": "Select",
+    "@select_label": {
+        "type": "text",
+        "source_text": "Selecciona"
+    },
+    "order_by_title": "Order by",
+    "@order_by_title": {
+        "type": "text",
+        "source_text": "Ordenar por"
+    },
+    "save_label": "Save",
+    "@save_label": {
+        "type": "text",
+        "source_text": "Guardar"
+    },
+    "type_label": "Type",
+    "@type_label": {
+        "type": "text",
+        "source_text": "Tipo"
+    },
+    "generic_error_title": "Sorry an error has occurred",
+    "@generic_error_title": {
+        "type": "text",
+        "source_text": "Lo sentimos, se ha producido un error"
+    },
+    "zero_results_title": "We have not found any matches",
+    "@zero_results_title": {
+        "type": "text",
+        "source_text": "No hemos encontrado ninguna coincidencia"
+    },
+    "go_to_pokedex_title": "Go to the Pokedex",
+    "@go_to_pokedex_title": {
+        "type": "text",
+        "source_text": "Ir a la Pokédex"
+    },
+    "zero_caught_pokemons_title": "You don't have any Pokémon caught yet",
+    "@zero_caught_pokemons_title": {
+        "type": "text",
+        "source_text": "Aún no tienes ningún Pokémon capturado"
+    },
+    "zero_pokemons_in_pokedex_title": "Sorry, we don't have any Pokémons in the pokedex yet.",
+    "@zero_pokemons_in_pokedex_title": {
+        "type": "text",
+        "source_text": "Lo sentimos, aún no tenemos Pokémons en la pokedex"
+    },
+    "snack_bar_caught_pokemon_success": "Pokémon caught",
+    "@snack_bar_caught_pokemon_success": {
+        "type": "text",
+        "source_text": "Pokémon capturado"
+    },
+    "snack_bar_caught_pokemon_error": "Error catching the Pokémon",
+    "@snack_bar_caught_pokemon_error": {
+        "type": "text",
+        "source_text": "Error al capturar el Pokémon"
+    },
+    "snack_bar_free_pokemon_success": "The Pokémon has been freed",
+    "@snack_bar_free_pokemon_success": {
+        "type": "text",
+        "source_text": "Se ha libera el Pokémon"
+    },
+    "snack_bar_free_pokemon_error": "Error freeing the Pokémon",
+    "@snack_bar_free_pokemon_error": {
+        "type": "text",
+        "source_text": "Error al liberar el Pokémon"
+    },
+    "snack_bar_select_pokemon_type_error": "Before saving you must select a Pokémon type",
+    "@snack_bar_select_pokemon_type_error": {
+        "type": "text",
+        "source_text": "Antes de guardar debes seleccionar un tipo de Pokémon"
+    },
+    "snack_bar_shiny_pokemon_title": "Congratulations! You've found a Shiny Pokémon",
+    "@snack_bar_shiny_pokemon_title": {
+        "type": "text",
+        "source_text": "¡Felicidades!, has encontrado un Pokémon Shiny"
+    },
+    "shiny_label": "Shiny",
+    "@shiny_label": {
+        "type": "text",
+        "source_text": "Shiny"
+    }
+}
